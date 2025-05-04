@@ -26,5 +26,5 @@ Aplicación web que permite generar contraseñas seguras de manera rápida y per
 ## 📁 Cómo clonar este repositorio
 
 ```bash
-git clone https://github.com/tuusuario/password-generator.git
-cd password-generator
+git clone https://github.com/tuusuario/password-gen.git
+cd password-gen
